@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About renders correctly 1`] = `
+Array [
+  <h1>
+    <a
+      href="/"
+    >
+      Website Title
+    </a>
+  </h1>,
+  <nav>
+    <ul>
+      <li>
+        <a
+          href="/about"
+        >
+          About
+        </a>
+      </li>
+      <li>
+        <a
+          href="/contact"
+        >
+          Contact
+        </a>
+      </li>
+    </ul>
+  </nav>,
+  <h1>
+    About
+  </h1>,
+  <p>
+    Add an about page
+  </p>,
+  <footer>
+    <p>
+      <a
+        href="/privacy"
+        title="privacy policy"
+      >
+        Privacy policy
+      </a>
+    </p>
+  </footer>,
+]
+`;
